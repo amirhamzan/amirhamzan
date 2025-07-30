@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hamzan</h1>
-<h3 align="center">Software developer from Malaysia, constantly exploring Web, Mobile, IoT & DevOps — always learning, always evolving.</h3>
+<h3 align="center">Software developer from Malaysia, constantly exploring Web, Mobile, IoT & DevOps<br> — always learning, always evolving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhamzan&label=Profile%20views&color=0e75b6&style=flat" alt="amirhamzan" /> </p>
 
