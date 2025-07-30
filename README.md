@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/amirhamzan" target="blank"><img src="https://img.shields.io/twitter/follow/amirhamzan?logo=twitter&style=for-the-badge" alt="amirhamzan" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps projects.**
+- 🔭 I’m currently working on DevOps projects, including cloud infrastructure, CI/CD pipelines, and containerization (Docker & Kubernetes).
 
-- 🌱 I’m currently learning **mobile, IOT & DevOps skills to enhance my knowledge**
+- 🌱 I’m expanding my skills in Mobile Development (Flutter), IoT integration, and advanced DevOps practices to build scalable, modern systems.
 
-- 💬 Ask me about **Laravel, Vue, Flutter, etc...**
+- 💬 Ask me about Laravel, Vue.js, Flutter, Docker, Kubernetes, or full-stack development – I love discussing real-world implementation!
 
 - 📫 How to reach me **amirhassan.hamzan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amirhamzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhamzan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amirhamzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirhamzan" height="30" width="40" /></a>
 </p>
 
